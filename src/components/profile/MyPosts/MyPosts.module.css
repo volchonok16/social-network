@@ -1,0 +1,21 @@
+.postsBlock{
+    padding: 10px;
+    margin-left: 20px ;
+    color: MediumBlue;
+
+}
+.posts {
+    margin-top: 10px;
+    line-height: 15px;
+}
+.bottom {
+    color: white;
+    background: indigo;
+    height: 40px;
+    width: 100px;
+    border-top-left-radius: 25px;
+    border-top-right-radius: 25px;
+    border-bottom-left-radius: 25px;
+    border-bottom-right-radius: 25px;
+
+}

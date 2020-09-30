@@ -1,0 +1,23 @@
+.header{
+    grid-area: h;
+    background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQnq-EIyU7TbtNpUPy0r4mgWyBRDBdg7--wfg&usqp=CAU');
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+
+
+
+}
+
+.img {
+
+    width: 40px;
+    margin-left: 20px;
+}
+
+.loginBlock {
+    float: right;
+
+}
+.loginBlock a {
+    color: white;
+}

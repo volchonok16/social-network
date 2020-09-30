@@ -1,0 +1,22 @@
+.nav {
+    grid-area: n;
+    background-color: RosyBrown;
+    padding: 20px;
+    margin-top: 20px;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+
+}
+
+.item a {
+    color: whitesmoke;
+    text-decoration: none;
+    line-height: 40px;
+
+}
+
+.item a.activeLink {
+    color: LightSteelBlue;
+}
